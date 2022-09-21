@@ -2,8 +2,10 @@
 #include <stdio.h>
 #include <time.h>
 
-/* more headers goes there */
-/* betty style etc for function main goes there */
+/**
+ * more headers goes there 
+ * betty style etc for function main goes there 
+ */
 int main(void){
 	int n;
 
