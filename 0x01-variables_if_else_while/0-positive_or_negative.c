@@ -1,14 +1,14 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
+
 /**
- * more headers goes there
+ * main - Entry point
  *
- * betty style etc for function main goes there
+ * Return: Always success
  */
 int main(void)
 {
-
 	int n;
 
 	srand(time(0));
@@ -27,5 +27,6 @@ int main(void)
 	{
 		printf("%d is negative\n", n);
 	}
+
 	return (0);
 }
