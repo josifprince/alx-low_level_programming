@@ -3,8 +3,8 @@
 /**
  * main -  Prints the alphabet in lowercase, except for q and e.
  *
- * Retuen: Always sucess
- */
+ * Return: Always sucess
+ /
 int main(void)
 {
 	char letter;
