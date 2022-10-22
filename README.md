@@ -1,1 +1,1 @@
-will be reediting the readme later
+static libraries
